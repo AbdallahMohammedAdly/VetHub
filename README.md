@@ -4,3 +4,9 @@ Vethub is a comprehensive platform designed for veterinary clinics, created as a
 
 
 Swagger UI => http://vethub.runasp.net/swagger/index.html
+
+
+The Vethub Admin portal, accessible at http://vethubadmin.runasp.net/, is likely the administrative interface for managing the Vethub platform. This admin panel would be used by veterinary clinic staff or administrators to manage the backend operations of the platform, such as overseeing user accounts, managing clinic settings, and monitoring overall system performance. It plays a crucial role in maintaining the efficiency and effectiveness of the Vethub system.
+
+
+login to Admin portal => http://vethubadmin.runasp.net/
