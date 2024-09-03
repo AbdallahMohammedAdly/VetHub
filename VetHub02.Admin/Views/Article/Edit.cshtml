@@ -1,0 +1,33 @@
+﻿@model ArticleViewModel
+
+@{
+    ViewData["Title"] = "Edit";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Edit @Model.Title</h1>
+<hr />
+<div class="container">
+    <div class="row">
+        <div class="col-md-6">
+            <form method="post" asp-action="Edit">
+                <label asp-for="Title" class="form-label"> titel</label>
+
+                <input asp-for="Title" class="form-control" type="text" value="@Model.Title" />
+                
+                <br />
+
+                <label asp-for="Content" class="form-label"> content</label>
+
+                <input asp-for="Content" class="form-control" type="text" value="@Model.Content" />
+
+                <div class="input-group mt-2 justify-content-center d-flex">
+                    <button type="submit" class="btn btn-warning m-2">save</button>
+                    <a class="btn btn-secondary m-2" asp-action="Index">Back to List</a>
+                </div>
+
+            </form>
+        </div>
+    </div>
+
+</div>

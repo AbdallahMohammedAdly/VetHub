@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "pbw9KkLETImqGhzE8FQsi4b2OWX1JTFIIibjcCy73EM=",
+  "Source": "VetHub02",
+  "BasePath": "_content/VetHub02",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "VetHub02\\wwwroot",
+      "Source": "VetHub02",
+      "ContentRoot": "C:\\Users\\Abdullah Adly\\Desktop\\project Graduation_test\\VetHub02.Api.test03\\VetHub02\\wwwroot\\",
+      "BasePath": "_content/VetHub02",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}

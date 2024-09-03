@@ -1,0 +1,47 @@
+[
+    {
+        "Title": "this is a Title",
+        "Content": "Does lumpy skin disease have a new treatment?",
+        "UserId": 2
+    },
+    {
+        "Title": "this is a Title",
+        "Content": "Does lumpy skin disease have a new treatment?",
+        "UserId": 4
+    },
+    {
+        "Title": "this is a Title",
+        "Content": "What are the latest advancements in treating foot and mouth disease in animals?",
+        "UserId": 5
+    },
+    {
+        "Title": "this is a Title",
+        "Content":"Are there any emerging symptoms associated with foot and mouth disease that researchers are investigating?",
+        "UserId": 7
+    },{
+        "Title": "this is a Title",
+        "Content": "I heard about a potential new vaccine for foot and mouth disease. Can you provide more information on its development and efficacy?",
+        "UserId": 8
+    }
+    ,{
+        "Title": "this is a Title",
+        "Content": "Are there any novel treatment options being explored for Infectious Bovine Keratoconjunctivitis?",
+        "UserId": 9
+    }
+    ,{
+        "Title": "this is a Title",
+        "Content": "What are the current challenges in managing Infectious Bovine Keratoconjunctivitis, and how are researchers addressing them?",
+        "UserId": 10
+    }
+    ,{
+        "Title": "this is a Title",
+        "Content": "Is there any research on the transmission dynamics of foot and mouth disease and how it can inform prevention strategies?",
+        "UserId": 11
+    }
+    ,{
+        "Title": "this is a Title",
+        "Content": "Have there been any recent outbreaks of foot and mouth disease in certain regions, and what measures are being taken to control them?",
+        "UserId": 6
+    }
+
+]

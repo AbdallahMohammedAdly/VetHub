@@ -1,0 +1,63 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+	  
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Content Remove="wwwroot\Images\10.jpg" />
+    <Content Remove="wwwroot\Images\11.jpg" />
+    <Content Remove="wwwroot\Images\12.jpg" />
+    <Content Remove="wwwroot\Images\13.jpg" />
+    <Content Remove="wwwroot\Images\14.jpg" />
+    <Content Remove="wwwroot\Images\15.jpg" />
+    <Content Remove="wwwroot\Images\7.jpg" />
+    <Content Remove="wwwroot\Images\8.jpg" />
+    <Content Remove="wwwroot\Images\9.jpg" />
+    <Content Remove="wwwroot\Images\cmp-atx-hero-2880x900-2024.jpg" />
+    <Content Remove="wwwroot\Images\Dr.Rena.jpg" />
+    <Content Remove="wwwroot\Images\HERO-2880x900-COEEvents.jpg" />
+    <Content Remove="wwwroot\Images\Hero-2880x900-PetOwners.jpg" />
+    <Content Remove="wwwroot\Images\HERO2880x900-AWJAC.jpg" />
+    <Content Remove="wwwroot\Images\mcm-just-one-thing-banner-v3-2880x900.jpg" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="12.0.1" />
+    <PackageReference Include="MailKit" Version="4.4.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="6.0.28">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="MimeKit" Version="4.4.0" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.5.0" />
+    <PackageReference Include="Twilio" Version="7.0.2" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\VetHub02.Repository\VetHub02.Repository.csproj" />
+    <ProjectReference Include="..\VetHub02.Services\VetHub02.Services.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="wwwroot\Images\10.jpg" />
+    <None Include="wwwroot\Images\11.jpg" />
+    <None Include="wwwroot\Images\12.jpg" />
+    <None Include="wwwroot\Images\13.jpg" />
+    <None Include="wwwroot\Images\14.jpg" />
+    <None Include="wwwroot\Images\15.jpg" />
+    <None Include="wwwroot\Images\7.jpg" />
+    <None Include="wwwroot\Images\8.jpg" />
+    <None Include="wwwroot\Images\9.jpg" />
+    <None Include="wwwroot\Images\cmp-atx-hero-2880x900-2024.jpg" />
+    <None Include="wwwroot\Images\Dr.Rena.jpg" />
+    <None Include="wwwroot\Images\HERO-2880x900-COEEvents.jpg" />
+    <None Include="wwwroot\Images\Hero-2880x900-PetOwners.jpg" />
+    <None Include="wwwroot\Images\HERO2880x900-AWJAC.jpg" />
+    <None Include="wwwroot\Images\mcm-just-one-thing-banner-v3-2880x900.jpg" />
+  </ItemGroup>
+
+</Project>

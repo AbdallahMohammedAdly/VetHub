@@ -1,0 +1,37 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Abdullah Adly\\Desktop\\project Graduation_test\\VetHub02.Api.test03\\SignalR\\wwwroot\\html\\Index.html",
+      "PackagePath": "staticwebassets\\html\\Index.html"
+    },
+    {
+      "Id": "C:\\Users\\Abdullah Adly\\Desktop\\project Graduation_test\\VetHub02.Api.test03\\SignalR\\wwwroot\\js\\chat.js",
+      "PackagePath": "staticwebassets\\js\\chat.js"
+    },
+    {
+      "Id": "C:\\Users\\Abdullah Adly\\Desktop\\project Graduation_test\\VetHub02.Api.test03\\SignalR\\wwwroot\\lib\\signalr.js\\signalr.js",
+      "PackagePath": "staticwebassets\\lib\\signalr.js\\signalr.js"
+    },
+    {
+      "Id": "C:\\Users\\Abdullah Adly\\Desktop\\project Graduation_test\\VetHub02.Api.test03\\SignalR\\wwwroot\\lib\\signalr.js\\signalr.min.js",
+      "PackagePath": "staticwebassets\\lib\\signalr.js\\signalr.min.js"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.SignalR.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.SignalR.props",
+      "PackagePath": "build\\SignalR.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.SignalR.props",
+      "PackagePath": "buildMultiTargeting\\SignalR.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.SignalR.props",
+      "PackagePath": "buildTransitive\\SignalR.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
